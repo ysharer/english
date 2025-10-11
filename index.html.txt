@@ -24,13 +24,14 @@
 <body>
   <!-- CONTEÚDO PRINCIPAL -->
   <iframe 
-    src="https://ysharer.wixstudio.com/english" 
+    src="ysharer.wixstudio.com/english" 
     width="100%" 
     height="600" 
     style="border:1px solid #ccc;">
   </iframe>
 </body>
 </html>
+
 
 
 
